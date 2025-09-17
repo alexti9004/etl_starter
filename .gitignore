@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Data
+data/bronze/*
+data/silver/*
+data/.gitkeep
+data/bronze/.gitkeep
+data/silver/.gitkeep
+
