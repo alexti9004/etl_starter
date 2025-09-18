@@ -17,3 +17,4 @@ def fetch_weather(city="Vancouver"):
 
 if __name__ == "__main__":
     fetch_weather()
+
